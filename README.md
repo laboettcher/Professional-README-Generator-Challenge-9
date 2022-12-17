@@ -47,11 +47,9 @@ npm run test
 
 You can reach me with additional questions at thefourthb@gmail.com or look for me on GitHub: laboettcher.
 
-## Mock-Up
+## Walk Through Video
 
-<iframe src="https://drive.google.com/file/d/1pC20GOf-M5-GiEDNI0I9UBlrrIIPPy8Z/preview" width="640" height="480"></iframe> 
-
-* [Drive Link:](https://drive.google.com/file/d/1pC20GOf-M5-GiEDNI0I9UBlrrIIPPy8Z/view)
+* [Drive Link](https://drive.google.com/file/d/1pC20GOf-M5-GiEDNI0I9UBlrrIIPPy8Z/view)
 
 ## References
 
